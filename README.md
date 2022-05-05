@@ -1,5 +1,6 @@
 
- ## Machine Learning là một nhánh con của AI-Artificical Intelligence (Trí tuệ nhân tạo).
+ ## Machine Learning là gì?
+ Machine learning là một nhánh con của AI-Artificical Intelligence (Trí tuệ nhân tạo).
  Đơn giản hóa thì bạn có thể hiểu machine learning có khả năng học hỏi từ dữ liệu đưa vào mà không cần lập trình cụ thể.
  ## Theo phương thức học, thuật toán Machine learning chia làm 4 nhóm chính:
  - Supervised learning ( Học có giám sát):
